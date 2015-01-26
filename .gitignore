@@ -1,3 +1,4 @@
+# Unity generated folders
 /UnityProject/FlowRPG/[Ll]ibrary/
 /UnityProject/FlowRPG/[Tt]emp/
 /UnityProject/FlowRPG/[Oo]bj/
@@ -12,3 +13,7 @@
 /UnityProject/FlowRPG/*.userprefs
 /UnityProject/FlowRPG/*.pidb
 /UnityProject/FlowRPG/*.booproj
+
+# UnityVS
+/UnityProject/FlowRPG/Assets/UnityVS/
+/UnityProject/FlowRPG/Assets/UnityVS.meta
